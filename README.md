@@ -51,3 +51,5 @@ python FUS.py --device 'cuda:0' --ratio 0.007 --score 'forgettingscore' --data_n
 python FUS.py --device 'cuda:0' --ratio 0.007 --score 'BAS' --data_name 'cifar10'
 ```
 
+All results are saved in **res.json**.
+

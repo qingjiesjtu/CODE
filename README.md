@@ -30,7 +30,7 @@ Put the path of datasets in **datasets/__init__.py**
 ![Alt text](./images/image-3.png)
 
 Enter your wandb key for visualization of backdoor/benign training. 
-![Alt text](./images/image-4.png)!![Alt text](./images/image-6.png)
+![Alt text](./images/image-4.png)![Alt text](./images/image-6.png)
 
 Run **blanketSearch.py** for our method *CODE* (choose dataset with option *data_name*):
 ```bash
